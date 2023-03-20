@@ -1,4 +1,4 @@
-# Arquivo principal
+# Arquivo principal do reconhecimento de fala
 
 # Assistente online!
 '''
@@ -16,10 +16,7 @@ with sr.Microphone() as source:
 '''
 
 # Assistente offline!
-#!/usr/bin/env python3
-
 from vosk import Model, KaldiRecognizer
-import os
 import pyaudio
 
 model = Model('model')

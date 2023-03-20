@@ -7,5 +7,7 @@
 
  Tecnologias:
  - Reconhecimento de voz
+    - Google para reconhecimento online
+    - Vosk para reconhecimento offline
  - Síntese em voz
  - Algum tipo de IA

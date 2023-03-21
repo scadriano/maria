@@ -42,7 +42,7 @@ print(rec.FinalResult())
 from vosk import Model, KaldiRecognizer
 import pyaudio
 import pyttsx3
-import json
+import json 
 
 # Síntese de voz/fala
 engine = pyttsx3.init()
